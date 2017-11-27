@@ -11,6 +11,9 @@ h2, h3{
     text-align: left;
     font-family: 'Boogaloo', cursive;
 }
+div {
+    text-align: center;
+}
 body {
     margin-top: 0px;
     margin-right: 0px;
