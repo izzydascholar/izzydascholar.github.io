@@ -13,6 +13,7 @@ h2, h3{
 }
 div {
     margin: 0 auto;
+    padding-left: 20px; 
 }
 body {
     margin-top: 0px;
